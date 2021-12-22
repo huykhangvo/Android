@@ -1,11 +1,3 @@
-###Hướng dẫn ListView Cơ Bản
+###Hướng dẫn Android cơ bản
 
-[Links](http://localhost/)
-
-[Links with title](http://localhost/ "link title")
-
-`<link>` : <https://github.com>
-
-[Reference link][id/name] 
-
-[id/name]: http://link-url/
+`<ListView>` : <https://github.com/huykhangvo/Android/blob/main/ListView.md>
